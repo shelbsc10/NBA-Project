@@ -1,0 +1,319 @@
+,player,team,AGE,RANK,salary,college,height,position,weight,shoots
+22,Steven Adams,OKC,26.0,39.0,27528090.0,University of Pittsburgh,7.0,Center,265.0,Right
+24,Bam Adebayo,MIA,22.0,200.0,5115492.0,University of Kentucky,6.1,Center,255.0,Right
+43,LaMarcus Aldridge,SAS,34.0,59.0,19078340.0,University of Texas at Austin,6.11,Power Forward and Center,260.0,Right
+44,LaMarcus Aldridge,SAS,34.0,468.0,19078340.0,University of Texas at Austin,6.11,Power Forward and Center,260.0,Right
+56,Grayson Allen,MEM,24.0,308.0,2545320.0,Duke University,6.5,Shooting Guard,198.0,Right
+57,Jarrett Allen,BKN,22.0,241.0,3909902.0,University of Texas at Austin,6.11,Center,237.0,Right
+76,Al-Farouq Aminu,ORL,29.0,125.0,9720900.0,Wake Forest University,6.9,Power Forward and Small Forward,220.0,Right
+97,Kyle Anderson,MEM,26.0,128.0,9505100.0,"University of California, Los Angeles",6.9,Small Forward,230.0,Right
+102,Ryan Anderson,HOU,32.0,198.0,5214583.0,University of California,6.1,Power Forward,240.0,Right
+111,Giannis Antetokounmpo,MIL,25.0,38.0,27528090.0,,6.11,Point Guard and Power Forward and Small Forward and Shooting Guard,242.0,Right
+113,Thanasis Antetokounmpo,MIL,27.0,384.0,1701593.0,,6.7,Small Forward,205.0,Right
+114,Carmelo Anthony,POR,36.0,299.0,2564753.0,Syracuse University,6.8,Small Forward and Power Forward,240.0,Right
+118,OG Anunoby,TOR,22.0,242.0,3872215.0,Indiana University,6.8,Small Forward,232.0,Right
+124,Ryan Arcidiacono,CHI,26.0,281.0,3000000.0,Villanova University,6.3,Point Guard,200.0,Right
+127,Trevor Ariza,POR,35.0,96.0,12800000.0,"University of California, Los Angeles",6.8,Small Forward and Shooting Guard,215.0,Right
+153,D.J. Augustin,ORL,32.0,173.0,6666667.0,University of Texas at Austin,6.0,Point Guard,183.0,Right
+164,Deandre Ayton,PHX,21.0,120.0,10018200.0,University of Arizona,7.1,Center,250.0,Right
+170,Dwayne Bacon,CHA,24.0,389.0,1678854.0,Florida State University,6.7,Shooting Guard,221.0,Right
+175,Marvin Bagley III,SAC,21.0,139.0,8963640.0,Duke University,6.11,Power Forward,234.0,Left
+191,Lonzo Ball,NOP,22.0,111.0,11003782.0,"University of California, Los Angeles",6.6,Point Guard,190.0,Right
+203,J.J. Barea,DAL,36.0,306.0,2564753.0,Northeastern University,6.0,Point Guard and Shooting Guard,185.0,Right
+210,Harrison Barnes,SAC,28.0,48.0,22215909.0,University of North Carolina,6.8,Power Forward and Small Forward,225.0,Right
+235,Will Barton,DEN,29.0,86.0,13920000.0,University of Memphis,6.6,Shooting Guard,190.0,Right
+252,Nicolas Batum,CHA,31.0,137.0,11608231.0,,6.8,Small Forward and Shooting Guard,200.0,Right
+253,Nicolas Batum,CHA,31.0,304.0,11608231.0,,6.8,Small Forward and Shooting Guard,200.0,Right
+260,Aron Baynes,PHX,33.0,170.0,6975610.0,Washington State University,6.1,Center,260.0,Right
+262,Kent Bazemore,SAC,30.0,322.0,2320044.0,Old Dominion University,6.5,Small Forward and Shooting Guard,201.0,Left
+264,Bradley Beal,WAS,27.0,31.0,28751775.0,University of Florida,6.5,Shooting Guard,207.0,Right
+271,Malik Beasley,MIN,23.0,91.0,13325895.0,Florida State University,6.5,Shooting Guard,195.0,Right
+293,DeAndre' Bembry,ATL,25.0,380.0,1737145.0,Saint Joseph's University,6.6,Shooting Guard and Small Forward,210.0,Right
+321,Patrick Beverley,LAC,31.0,90.0,13333333.0,University of Arkansas,6.1,Point Guard and Shooting Guard,185.0,Right
+336,Khem Birch,ORL,27.0,280.0,3425463.0,"University of Pittsburgh, University of Nevada, Las Vegas",6.9,Center,233.0,Right
+337,Khem Birch,ORL,27.0,487.0,3425463.0,"University of Pittsburgh, University of Nevada, Las Vegas",6.9,Center,233.0,Right
+343,Bismack Biyombo,CHA,27.0,320.0,2331593.0,,6.9,Center,255.0,Right
+344,Nemanja Bjelica,SAC,32.0,166.0,7150000.0,,6.1,Power Forward,234.0,Right
+364,Eric Bledsoe,MIL,30.0,68.0,16875000.0,University of Kentucky,6.1,Point Guard,205.0,Right
+392,Isaac Bonga,WAS,20.0,399.0,1663861.0,,6.8,Point Guard,180.0,Right
+397,Devin Booker,PHX,23.0,25.0,29430000.0,University of Kentucky,6.6,Shooting Guard,210.0,Right
+415,Chris Boucher,TOR,27.0,177.0,6490385.0,University of Oregon,6.1,Power Forward,200.0,Right
+440,Avery Bradley,LAL,29.0,189.0,5635000.0,University of Texas at Austin,6.2,Point Guard and Shooting Guard,180.0,Right
+449,Tony Bradley,UTA,22.0,259.0,3542060.0,University of North Carolina,6.1,Center,248.0,Right
+478,Mikal Bridges,PHX,23.0,225.0,4359000.0,Villanova University,6.7,Small Forward,210.0,Right
+479,Miles Bridges,CHA,22.0,240.0,3934320.0,Michigan State University,6.7,Small Forward,225.0,Left
+492,Malcolm Brogdon,IND,27.0,51.0,20700000.0,University of Virginia,6.5,Shooting Guard and Point Guard,229.0,Right
+497,Dillon Brooks,MEM,24.0,110.0,11400000.0,University of Oregon,6.6,Small Forward,220.0,Right
+506,Bruce Brown,DET,23.0,402.0,1663861.0,University of Miami,6.5,Shooting Guard,202.0,Right
+520,Jaylen Brown,BOS,23.0,46.0,22991071.0,University of California,6.7,Small Forward and Shooting Guard,220.0,Right
+540,Sterling Brown,MIL,25.0,390.0,1678854.0,Southern Methodist University,6.6,Shooting Guard,232.0,Right
+543,Troy Brown Jr.,WAS,20.0,267.0,3372840.0,University of Oregon,6.7,Small Forward,215.0,Right
+548,Jalen Brunson,DAL,23.0,398.0,1663861.0,Villanova University,6.3,Point Guard,190.0,Left
+555,Thomas Bryant,WAS,22.0,143.0,8333333.0,Indiana University,6.11,Center,248.0,Right
+570,Reggie Bullock,NYK,29.0,230.0,4200000.0,University of North Carolina,6.7,Shooting Guard and Small Forward,205.0,Right
+578,Trey Burke,DAL,27.0,271.0,3174603.0,University of Michigan,6.1,Point Guard,175.0,Right
+580,Alec Burks,PHI,28.0,184.0,6000000.0,University of Colorado,6.6,Shooting Guard,214.0,Right
+603,Jimmy Butler,MIA,30.0,11.0,34379100.0,Marquette University,6.8,Shooting Guard and Small Forward,232.0,Right
+617,Bruno Caboclo,HOU,24.0,490.0,361256.0,,6.9,Small Forward,218.0,Right
+626,Kentavious Caldwell-Pope,LAL,27.0,104.0,12073020.0,University of Georgia,6.5,Shooting Guard,205.0,Right
+640,Clint Capela,ATL,26.0,74.0,16000000.0,,6.1,Center,240.0,Right
+662,DeMarre Carroll,HOU,33.0,181.0,6167887.0,"Vanderbilt University, University of Missouri",6.8,Small Forward and Power Forward,215.0,Right
+672,Jevon Carter,PHX,24.0,258.0,3549383.0,West Virginia University,6.2,Point Guard,196.0,Right
+677,Wendell Carter Jr.,CHI,21.0,193.0,5448840.0,Duke University,6.1,Center,255.0,Right
+678,Michael Carter-Williams,ORL,28.0,279.0,3000000.0,Syracuse University,6.6,Point Guard,190.0,Right
+681,Alex Caruso,LAL,26.0,291.0,2750000.0,Texas A&M University,6.5,Point Guard,186.0,Right
+691,Willie Cauley-Stein,DAL,26.0,236.0,4000000.0,University of Kentucky,7.0,Center,240.0,Right
+728,Marquese Chriss,GSW,22.0,371.0,1824003.0,University of Washington,6.1,Power Forward,240.0,Right
+742,Gary Clark,ORL,25.0,352.0,2000000.0,University of Cincinnati,6.8,Power Forward,225.0,Right
+747,Jordan Clarkson,UTA,28.0,108.0,11500000.0,"University of Tulsa, University of Missouri",6.5,Shooting Guard and Point Guard,194.0,Right
+781,John Collins,ATL,22.0,232.0,4137302.0,Wake Forest University,6.1,Power Forward,235.0,Right
+784,Zach Collins,POR,22.0,194.0,5406255.0,Gonzaga University,7.0,Center,235.0,Right
+800,Mike Conley,UTA,32.0,10.0,34504132.0,Ohio State University,6.1,Point Guard,175.0,Left
+803,Pat Connaughton,MIL,27.0,212.0,4938272.0,University of Notre Dame,6.4,Shooting Guard,209.0,Right
+817,Quinn Cook,LAL,27.0,451.0,1797183.0,Duke University,6.2,Point Guard,179.0,Right
+818,Quinn Cook,LAL,27.0,470.0,1797183.0,Duke University,6.2,Point Guard,179.0,Right
+849,Robert Covington,HOU,29.0,103.0,12138345.0,Tennessee State University,6.9,Small Forward,225.0,Right
+855,Torrey Craig,DEN,29.0,388.0,1678854.0,University of South Carolina Upstate,6.7,Small Forward,215.0,Right
+883,Jae Crowder,MIA,29.0,131.0,9258000.0,Marquette University,6.6,Small Forward,235.0,Right
+902,Seth Curry,DAL,29.0,155.0,7813953.0,"Liberty University, Duke University",6.2,Shooting Guard and Point Guard,185.0,Right
+903,Stephen Curry,GSW,32.0,1.0,43006362.0,Davidson College,6.3,Point Guard,190.0,Right
+936,Anthony Davis,LAL,27.0,17.0,32742000.0,University of Kentucky,6.1,Power Forward and Center,253.0,Right
+950,Ed Davis,UTA,31.0,206.0,5005350.0,University of North Carolina,6.1,Center and Power Forward,225.0,Left
+993,Dewayne Dedmon,ATL,30.0,285.0,3447478.0,University of Southern California,7.0,Center,245.0,Right
+994,Dewayne Dedmon,ATL,30.0,479.0,3447478.0,University of Southern California,7.0,Center,245.0,Right
+1007,Matthew Dellavedova,CLE,29.0,334.0,2174318.0,Saint Mary's College of California,6.4,Point Guard and Shooting Guard,200.0,Right
+1020,DeMar DeRozan,SAS,30.0,37.0,27739975.0,University of Southern California,6.7,Shooting Guard,220.0,Right
+1027,Hamidou Diallo,OKC,21.0,397.0,1663861.0,University of Kentucky,6.5,Shooting Guard,198.0,Right
+1040,Gorgui Dieng,MEM,30.0,70.0,17587688.0,University of Louisville,6.11,Center and Power Forward,252.0,Right
+1041,Gorgui Dieng,MEM,30.0,452.0,17587688.0,University of Louisville,6.11,Center and Power Forward,252.0,Right
+1054,Spencer Dinwiddie,BKN,27.0,109.0,11454048.0,University of Colorado,6.6,Point Guard,210.0,Right
+1060,Donte DiVincenzo,MIL,23.0,278.0,3044160.0,Villanova University,6.4,Shooting Guard,203.0,Right
+1077,Damyean Dotson,NYK,26.0,355.0,2000000.0,"University of Oregon, University of Houston",6.6,Shooting Guard,210.0,Right
+1106,Andre Drummond,CLE,26.0,32.0,29546311.0,University of Connecticut,6.11,Center,279.0,Right
+1107,Andre Drummond,CLE,26.0,471.0,29546311.0,University of Connecticut,6.11,Center,279.0,Right
+1112,Jared Dudley,LAL,34.0,303.0,2564753.0,Boston College,6.7,Small Forward and Power Forward and Shooting Guard,237.0,Right
+1127,Kris Dunn,CHI,26.0,217.0,4767000.0,Providence College,6.4,Point Guard,205.0,Right
+1187,Wayne Ellington,NYK,32.0,305.0,3005225.0,University of North Carolina,6.5,Shooting Guard,200.0,Right
+1188,Wayne Ellington,NYK,32.0,486.0,3005225.0,University of North Carolina,6.5,Shooting Guard,200.0,Right
+1205,Joel Embiid,PHI,26.0,22.0,29542010.0,University of Kansas,7.0,Center,250.0,Right
+1228,Drew Eubanks,SAS,23.0,403.0,1620564.0,Oregon State University,6.1,Power Forward,245.0,Right
+1233,Jacob Evans,MIN,23.0,351.0,2017320.0,University of Cincinnati,6.6,Shooting Guard,210.0,Right
+1243,Dante Exum,CLE,24.0,126.0,9600000.0,,6.6,Point Guard,190.0,Right
+1259,Derrick Favors,NOP,28.0,132.0,9258000.0,Georgia Institute of Technology,6.1,Center and Power Forward,265.0,Right
+1277,Terrance Ferguson,OKC,22.0,239.0,3944013.0,,6.7,Shooting Guard,190.0,Right
+1297,Dorian Finney-Smith,DAL,27.0,237.0,4000000.0,University of Florida,6.8,Small Forward and Power Forward,220.0,Right
+1319,Bryn Forbes,SAS,26.0,315.0,2337145.0,Michigan State University,6.3,Shooting Guard,190.0,Right
+1342,Evan Fournier,ORL,27.0,67.0,17000000.0,,6.7,Small Forward and Shooting Guard,205.0,Right
+1347,De'Aaron Fox,SAC,22.0,147.0,8099627.0,University of Kentucky,6.3,Point Guard,175.0,Left
+1385,Markelle Fultz,ORL,22.0,100.0,12288697.0,University of Washington,6.4,Shooting Guard,200.0,Right
+1400,Danilo Gallinari,OKC,31.0,52.0,19500000.0,,6.1,Small Forward and Shooting Guard and Power Forward,225.0,Right
+1401,Langston Galloway,DET,28.0,349.0,2028594.0,Saint Joseph's University,6.2,Shooting Guard and Point Guard,200.0,Right
+1435,Marc Gasol,TOR,35.0,298.0,2564753.0,,7.1,Center,255.0,Right
+1440,Rudy Gay,SAS,33.0,84.0,14000000.0,University of Connecticut,6.8,Power Forward and Small Forward,230.0,Right
+1450,Paul George,LAC,30.0,8.0,35450412.0,"California State University, Fresno",6.9,Small Forward and Shooting Guard,220.0,Right
+1465,Taj Gibson,NYK,35.0,326.0,3283684.0,University of Southern California,6.9,Power Forward,232.0,Right
+1466,Taj Gibson,NYK,35.0,453.0,3283684.0,University of Southern California,6.9,Power Forward,232.0,Right
+1470,Shai Gilgeous-Alexander,OKC,21.0,231.0,4141320.0,University of Kentucky,6.6,Point Guard,181.0,Right
+1494,Rudy Gobert,UTA,28.0,42.0,26525281.0,,7.1,Center,245.0,Right
+1506,Brandon Goodwin,ATL,24.0,385.0,1701593.0,"University of Central Florida, Florida Gulf Coast University",6.2,Point Guard,180.0,Right
+1508,Aaron Gordon,ORL,24.0,60.0,18136364.0,University of Arizona,6.9,Power Forward and Small Forward,220.0,Right
+1511,Eric Gordon,HOU,31.0,69.0,16869276.0,Indiana University,6.4,Shooting Guard and Point Guard,215.0,Right
+1522,Devonte' Graham,CHA,25.0,401.0,1663861.0,University of Kansas,6.2,Point Guard,185.0,Right
+1540,Jerami Grant,DEN,26.0,55.0,19047619.0,Syracuse University,6.9,Small Forward and Power Forward,220.0,Right
+1541,Jerian Grant,WAS,27.0,367.0,1882867.0,University of Notre Dame,6.4,Point Guard,205.0,Right
+1553,Josh Gray,NOP,26.0,404.0,1620564.0,Louisiana State University,6.1,Point Guard,180.0,Right
+1561,Danny Green,LAL,33.0,77.0,15365854.0,University of North Carolina,6.6,Shooting Guard,215.0,Right
+1563,Draymond Green,GSW,30.0,47.0,22246956.0,Michigan State University,6.7,Small Forward and Power Forward,230.0,Right
+1566,JaMychal Green,LAC,30.0,165.0,7199760.0,University of Alabama,6.9,Power Forward,227.0,Right
+1567,Jeff Green,HOU,33.0,307.0,2564753.0,Georgetown University,6.9,Small Forward and Power Forward,235.0,Right
+1596,Blake Griffin,DET,31.0,18.0,33685241.0,University of Oklahoma,6.1,Power Forward,250.0,Right
+1597,Blake Griffin,DET,31.0,446.0,33685241.0,University of Oklahoma,6.1,Power Forward,250.0,Right
+1688,Tim Hardaway Jr.,DAL,28.0,56.0,18975000.0,University of Michigan,6.6,Shooting Guard,205.0,Right
+1689,James Harden,HOU,30.0,5.0,40824000.0,Arizona State University,6.5,Shooting Guard and Point Guard,220.0,Left
+1697,Maurice Harkless,NYK,27.0,253.0,3623000.0,St. John's University,6.9,Small Forward,220.0,Right
+1706,Montrezl Harrell,LAC,26.0,133.0,9258000.0,University of Louisville,6.8,Power Forward and Center,240.0,Right
+1719,Gary Harris,DEN,25.0,54.0,19160714.0,Michigan State University,6.4,Shooting Guard,210.0,Right
+1720,Joe Harris,BKN,28.0,72.0,16071429.0,University of Virginia,6.6,Shooting Guard,218.0,Right
+1726,Tobias Harris,PHI,27.0,14.0,33517241.0,University of Tennessee,6.9,Power Forward and Small Forward,235.0,Right
+1732,Shaquille Harrison,CHI,26.0,473.0,770433.0,University of Tulsa,6.4,Point Guard,190.0,Left
+1734,Josh Hart,NOP,25.0,264.0,3491159.0,Villanova University,6.5,Shooting Guard,215.0,Right
+1735,Isaiah Hartenstein,HOU,22.0,439.0,1445697.0,,7.0,Power Forward,249.0,Left
+1740,Udonis Haslem,MIA,40.0,302.0,2564753.0,University of Florida,6.8,Power Forward and Center,235.0,Right
+1764,Gordon Hayward,BOS,30.0,35.0,28500000.0,Butler University,6.8,Power Forward and Small Forward,225.0,Right
+1822,Buddy Hield,SAC,27.0,45.0,24431818.0,University of Oklahoma,6.4,Shooting Guard,214.0,Right
+1837,George Hill,MIL,34.0,127.0,9590602.0,Indiana University-Purdue University Indianapolis,6.3,Point Guard,188.0,Right
+1841,Solomon Hill,MIA,29.0,335.0,2174318.0,University of Arizona,6.7,Small Forward,225.0,Right
+1864,Aaron Holiday,IND,23.0,314.0,2345640.0,"University of California, Los Angeles",6.1,Point Guard,185.0,Right
+1865,Jrue Holiday,NOP,30.0,43.0,26131111.0,"University of California, Los Angeles",6.4,Point Guard and Shooting Guard,205.0,Right
+1866,Justin Holiday,IND,31.0,187.0,5720400.0,University of Washington,6.6,Shooting Guard,181.0,Right
+1876,Richaun Holmes,SAC,26.0,203.0,5005350.0,Bowling Green State University,6.1,Center and Power Forward,235.0,Right
+1886,Rodney Hood,POR,27.0,119.0,10047450.0,"Mississippi State University, Duke University",6.8,Shooting Guard,206.0,Left
+1896,Al Horford,PHI,34.0,40.0,27500000.0,University of Florida,6.1,Center,245.0,Right
+1911,Dwight Howard,LAL,34.0,300.0,2564753.0,,6.11,Power Forward and Center,265.0,Right
+1925,Kevin Huerter,ATL,21.0,289.0,2761920.0,University of Maryland,6.7,Shooting Guard,190.0,Right
+1954,Chandler Hutchison,CHI,24.0,311.0,2443440.0,Boise State University,6.7,Small Forward,197.0,Right
+1958,Serge Ibaka,TOR,30.0,135.0,9258000.0,,6.1,Power Forward and Center,235.0,Right
+1959,Andre Iguodala,MIA,36.0,80.0,15000000.0,University of Arizona,6.6,Small Forward and Shooting Guard,215.0,Right
+1966,Joe Ingles,UTA,32.0,113.0,10863637.0,,6.8,Power Forward and Small Forward,226.0,Left
+1969,Brandon Ingram,NOP,22.0,41.0,27285000.0,Duke University,6.9,Small Forward,190.0,Right
+1974,Kyrie Irving,BKN,28.0,15.0,33329100.0,Duke University,6.3,Point Guard,193.0,Right
+1975,Jonathan Isaac,ORL,22.0,161.0,7362566.0,Florida State University,6.1,Power Forward,210.0,Right
+1994,Jaren Jackson Jr.,MEM,20.0,164.0,7257360.0,Michigan State University,6.11,Power Forward,242.0,Right
+1997,Josh Jackson,MEM,23.0,215.0,4767000.0,University of Kansas,6.8,Small Forward and Shooting Guard,200.0,Right
+1998,Justin Jackson,DAL,25.0,202.0,5029650.0,University of North Carolina,6.8,Small Forward,210.0,Right
+2011,Reggie Jackson,LAC,30.0,318.0,2331593.0,Boston College,6.3,Point Guard,208.0,Right
+2029,LeBron James,LAL,35.0,6.0,39219565.0,,6.8,Shooting Guard and Small Forward and Power Forward,250.0,Right
+2066,Alize Johnson,IND,24.0,489.0,399591.0,Missouri State,6.9,Power Forward,212.0,Right
+2102,James Johnson,MIN,33.0,73.0,16047100.0,Wake Forest University,6.8,Power Forward and Small Forward,240.0,Right
+2125,Stanley Johnson,TOR,24.0,246.0,3801000.0,University of Arizona,6.7,Small Forward,245.0,Right
+2130,Tyler Johnson,BKN,28.0,350.0,2028594.0,"California State University, Fresno",6.4,Shooting Guard and Point Guard,190.0,Left
+2151,Damian Jones,ATL,25.0,472.0,785285.0,Vanderbilt University,7.0,Center,245.0,Right
+2154,Derrick Jones Jr.,MIA,23.0,130.0,9268293.0,"University of Nevada, Las Vegas",6.7,Small Forward,200.0,Left
+2188,Tyus Jones,MEM,24.0,153.0,7965100.0,Duke University,6.2,Point Guard,196.0,Right
+2195,DeAndre Jordan,BKN,31.0,116.0,10375678.0,Texas A&M University,6.11,Center,265.0,Left
+2206,Cory Joseph,SAC,28.0,99.0,12600000.0,University of Texas at Austin,6.3,Point Guard and Shooting Guard,193.0,Right
+2217,Frank Kaminsky,PHX,27.0,368.0,1882867.0,University of Wisconsin,7.0,Center and Power Forward,242.0,Right
+2218,Enes Kanter,BOS,28.0,204.0,5005350.0,,6.11,Center,250.0,Right
+2250,Luke Kennard,DET,24.0,197.0,5273826.0,Duke University,6.5,Shooting Guard,206.0,Left
+2308,Maxi Kleber,DAL,28.0,144.0,8250000.0,,6.11,Power Forward,240.0,Right
+2336,Furkan Korkmaz,PHI,22.0,376.0,1762796.0,,6.7,Shooting Guard,190.0,Right
+2338,Luke Kornet,CHI,24.0,324.0,2304878.0,Vanderbilt University,7.1,Power Forward,250.0,Right
+2372,Rodions Kurucs,BKN,22.0,374.0,1780152.0,,6.9,Small Forward,210.0,Right
+2375,Kyle Kuzma,LAL,24.0,256.0,3562178.0,University of Utah,6.9,Power Forward,220.0,Right
+2393,Jeremy Lamb,IND,28.0,115.0,10500000.0,University of Connecticut,6.5,Small Forward and Shooting Guard,185.0,Right
+2425,Zach LaVine,CHI,25.0,53.0,19500000.0,"University of California, Los Angeles",6.5,Point Guard and Shooting Guard,200.0,Right
+2432,Jake Layman,MIN,26.0,247.0,3761085.0,University of Maryland,6.9,Small Forward,215.0,Right
+2434,T.J. Leaf,IND,23.0,226.0,4326825.0,"University of California, Los Angeles",6.1,Power Forward,225.0,Right
+2444,Damion Lee,GSW,27.0,375.0,1762796.0,"Drexel University, University of Louisville",6.6,Shooting Guard,210.0,Right
+2462,Alex Len,SAC,27.0,323.0,4032648.0,University of Maryland,7.1,Center,250.0,Right
+2463,Alex Len,SAC,27.0,382.0,4032648.0,University of Maryland,7.1,Center,250.0,Right
+2467,Kawhi Leonard,LAC,29.0,13.0,34379100.0,San Diego State University,6.7,Small Forward,230.0,Right
+2468,Meyers Leonard,MIA,28.0,129.0,9400000.0,University of Illinois at Urbana-Champaign,7.1,Power Forward and Center,255.0,Right
+2477,Caris LeVert,BKN,25.0,71.0,16203704.0,University of Michigan,6.7,Small Forward,204.0,Right
+2496,Damian Lillard,POR,29.0,19.0,31626953.0,Weber State University,6.3,Point Guard,195.0,Right
+2529,Kevon Looney,GSW,24.0,214.0,4821429.0,"University of California, Los Angeles",6.9,Center and Power Forward,220.0,Right
+2530,Brook Lopez,MIL,32.0,97.0,12697675.0,Stanford University,7.0,Center,270.0,Right
+2533,Robin Lopez,MIL,32.0,163.0,7300000.0,Stanford University,7.0,Center,275.0,Right
+2539,Kevin Love,CLE,31.0,20.0,31300000.0,"University of California, Los Angeles",6.1,Center and Power Forward,251.0,Right
+2544,Kyle Lowry,TOR,34.0,21.0,30000000.0,Villanova University,6.1,Point Guard,196.0,Right
+2560,Trey Lyles,SAS,24.0,192.0,5500000.0,University of Kentucky,6.1,Power Forward,234.0,Right
+2602,Thon Maker,DET,23.0,496.0,309355.0,,7.1,Center and Power Forward,221.0,Right
+2629,Lauri Markkanen,CHI,23.0,171.0,6731508.0,University of Arizona,7.0,Power Forward,240.0,Right
+2671,Wesley Matthews,MIL,33.0,255.0,3623000.0,Marquette University,6.5,Small Forward and Shooting Guard,220.0,Right
+2707,Patrick McCaw,TOR,24.0,238.0,4000000.0,"University of Nevada, Las Vegas",6.7,Shooting Guard,185.0,Right
+2713,CJ McCollum,POR,28.0,27.0,29354152.0,Lehigh University,6.3,Shooting Guard,190.0,Right
+2716,T.J. McConnell,IND,28.0,263.0,3500000.0,"Duquesne University, University of Arizona",6.2,Point Guard,190.0,Right
+2731,Doug McDermott,IND,28.0,162.0,7333333.0,Creighton University,6.8,Small Forward,225.0,Right
+2743,JaVale McGee,LAL,32.0,229.0,4200000.0,"University of Nevada, Reno",7.0,Center,270.0,Right
+2751,Rodney McGruder,LAC,28.0,207.0,5000000.0,Kansas State University,6.4,Shooting Guard,200.0,Right
+2772,Alfonzo McKinnie,CLE,27.0,377.0,1762796.0,University of Wisconsin-Green Bay,6.8,Small Forward,215.0,Right
+2773,Ben McLemore,HOU,27.0,328.0,2852708.0,University of Kansas,6.5,Shooting Guard,201.0,Right
+2774,Ben McLemore,HOU,27.0,480.0,2852708.0,University of Kansas,6.5,Shooting Guard,201.0,Right
+2814,De'Anthony Melton,MEM,22.0,156.0,7812500.0,University of Southern California,6.4,Point Guard,200.0,Right
+2833,Khris Middleton,MIL,28.0,16.0,33051724.0,Texas A&M University,6.8,Shooting Guard and Small Forward,222.0,Right
+2867,Patty Mills,SAS,31.0,92.0,13285714.0,Saint Mary's College of California,6.0,Point Guard,180.0,Right
+2870,Paul Millsap,DEN,35.0,122.0,10000000.0,Louisiana Tech University,6.8,Power Forward,246.0,Right
+2871,Shake Milton,PHI,23.0,383.0,1701593.0,Southern Methodist University,6.6,Shooting Guard,207.0,Right
+2881,Donovan Mitchell,UTA,23.0,199.0,5195501.0,University of Louisville,6.3,Shooting Guard,215.0,Right
+2905,Malik Monk,CHA,22.0,195.0,5345687.0,University of Kentucky,6.3,Shooting Guard,200.0,Right
+2916,E'Twaun Moore,NOP,31.0,316.0,2331593.0,Purdue University,6.4,Point Guard and Shooting Guard,191.0,Right
+2938,Markieff Morris,LAL,30.0,317.0,2331593.0,University of Kansas,6.1,Power Forward,245.0,Right
+2940,Monte Morris,DEN,25.0,391.0,1663861.0,Iowa State University,6.3,Point Guard,175.0,Right
+2986,Dejounte Murray,SAS,23.0,83.0,14285714.0,University of Washington,6.5,Point Guard,170.0,Right
+2987,Jamal Murray,DEN,23.0,29.0,29250000.0,University of Kentucky,6.4,Shooting Guard and Point Guard,207.0,Right
+2996,Mike Muscala,OKC,28.0,327.0,2283034.0,Bucknell University,6.11,Power Forward and Center,240.0,Right
+3010,Abdel Nader,OKC,26.0,378.0,1752950.0,"Northern Illinois University, Iowa State University",6.6,Small Forward,225.0,Right
+3016,Larry Nance Jr.,CLE,27.0,107.0,11709091.0,University of Wyoming,6.9,Center and Power Forward,230.0,Right
+3047,Raul Neto,PHI,28.0,365.0,1882867.0,,6.1,Point Guard,179.0,Right
+3059,Georges Niang,UTA,27.0,373.0,1783557.0,Iowa State University,6.8,Power Forward,230.0,Right
+3071,Joakim Noah,LAC,35.0,178.0,6431666.0,University of Florida,6.11,Center,230.0,Right
+3075,Nerlens Noel,OKC,26.0,208.0,5000000.0,University of Kentucky,6.11,Power Forward and Center,220.0,Right
+3095,Frank Ntilikina,NYK,21.0,180.0,6176578.0,,6.6,Point Guard,200.0,Right
+3099,David Nwaba,HOU,27.0,370.0,1862250.0,"California Polytechnic State University, San Luis Obispo",6.4,Shooting Guard,219.0,Right
+3121,Royce O'Neale,UTA,27.0,149.0,8035714.0,Baylor University,6.6,Small Forward,226.0,Right
+3137,Semi Ojeleye,BOS,25.0,379.0,1752950.0,Southern Methodist University,6.7,Power Forward,241.0,Right
+3139,Jahlil Okafor,NOP,24.0,364.0,1882867.0,Duke University,6.11,Center,275.0,Right
+3141,Josh Okogie,MIN,21.0,294.0,2651040.0,Georgia Institute of Technology,6.4,Shooting Guard,212.0,Right
+3143,Victor Oladipo,IND,28.0,50.0,21000000.0,Indiana University,6.4,Shooting Guard and Point Guard,210.0,Right
+3157,Kelly Olynyk,MIA,29.0,101.0,12198243.0,Gonzaga University,7.0,Center and Power Forward,240.0,Right
+3166,Cedi Osman,CLE,25.0,140.0,8750000.0,,6.8,Small Forward,215.0,Right
+3172,Kelly Oubre Jr.,PHX,24.0,82.0,14375000.0,University of Kansas,6.7,Small Forward,205.0,Left
+3212,Jabari Parker,SAC,25.0,175.0,6916834.0,Duke University,6.8,Power Forward,245.0,Right
+3213,Jabari Parker,SAC,25.0,488.0,6916834.0,Duke University,6.8,Power Forward,245.0,Right
+3234,Patrick Patterson,LAC,31.0,277.0,3814768.0,University of Kentucky,6.9,Power Forward,230.0,Right
+3235,Patrick Patterson,LAC,31.0,476.0,3814768.0,University of Kentucky,6.9,Power Forward,230.0,Right
+3242,Chris Paul,OKC,35.0,3.0,41358814.0,Wake Forest University,6.0,Point Guard,175.0,Right
+3252,Cameron Payne,PHX,25.0,357.0,1977011.0,Murray State University,6.3,Point Guard,190.0,Left
+3255,Elfrid Payton,NYK,26.0,218.0,5760000.0,University of Louisiana at Lafayette,6.4,Point Guard,185.0,Right
+3256,Elfrid Payton,NYK,26.0,449.0,5760000.0,University of Louisiana at Lafayette,6.4,Point Guard,185.0,Right
+3330,Mason Plumlee,DEN,30.0,150.0,8000000.0,Duke University,6.11,Center,235.0,Right
+3334,Jakob Poeltl,SAS,24.0,146.0,8101852.0,University of Utah,7.0,Center,230.0,Right
+3352,Bobby Portis,NYK,25.0,254.0,3623000.0,University of Arkansas,6.11,Power Forward,250.0,Right
+3361,Dwight Powell,DAL,28.0,118.0,10185185.0,Stanford University,6.11,Power Forward and Center,240.0,Right
+3364,Norman Powell,TOR,27.0,112.0,10865952.0,"University of California, Los Angeles",6.4,Shooting Guard,215.0,Right
+3423,Julius Randle,NYK,25.0,58.0,18900000.0,University of Kentucky,6.9,Power Forward and Center,250.0,Left
+3491,Josh Richardson,PHI,26.0,114.0,10800000.0,University of Tennessee,6.6,Shooting Guard and Small Forward,200.0,Right
+3517,Austin Rivers,HOU,27.0,272.0,3174603.0,Duke University,6.4,Point Guard and Shooting Guard,200.0,Right
+3545,Duncan Robinson,MIA,26.0,396.0,1663861.0,"Williams College, University of Michigan",6.8,Power Forward,210.0,Right
+3549,Glenn Robinson III,PHI,26.0,456.0,930930.0,University of Michigan,6.6,Shooting Guard and Small Forward,222.0,Right
+3553,Jerome Robinson,WAS,23.0,248.0,3737520.0,Boston College,6.5,Shooting Guard,190.0,Right
+3555,Mitchell Robinson,NYK,22.0,394.0,1663861.0,,7.1,Center,240.0,Right
+3588,Rajon Rondo,LAL,34.0,159.0,7500000.0,University of Kentucky,6.1,Point Guard,186.0,Right
+3591,Derrick Rose,DET,31.0,157.0,7682927.0,University of Memphis,6.3,Point Guard,200.0,Right
+3600,Terrence Ross,ORL,29.0,88.0,13500000.0,University of Washington,6.7,Small Forward and Shooting Guard,206.0,Right
+3617,Terry Rozier,CHA,26.0,57.0,18900000.0,University of Louisville,6.1,Point Guard,190.0,Right
+3618,Ricky Rubio,PHX,29.0,66.0,17000000.0,,6.4,Point Guard,190.0,Right
+3638,D'Angelo Russell,MIN,24.0,33.0,28649250.0,Ohio State University,6.5,Point Guard,198.0,Left
+3645,Domantas Sabonis,IND,24.0,65.0,17187500.0,Gonzaga University,6.11,Center and Power Forward,240.0,Left
+3656,JaKarr Sampson,IND,27.0,366.0,1882867.0,St. John's University,6.9,Small Forward,214.0,Right
+3724,Mike Scott,PHI,31.0,205.0,5005350.0,University of Virginia,6.8,Power Forward,237.0,Right
+3754,Collin Sexton,CLE,21.0,210.0,4991880.0,University of Alabama,6.2,Point Guard,190.0,Right
+3762,Landry Shamet,LAC,23.0,341.0,2090040.0,Wichita State University,6.5,Shooting Guard,188.0,Right
+3790,Iman Shumpert,BKN,30.0,485.0,447155.0,Georgia Institute of Technology,6.5,Shooting Guard and Point Guard,215.0,Right
+3792,Pascal Siakam,TOR,26.0,30.0,29000000.0,New Mexico State University,6.9,Power Forward,230.0,Right
+3807,Ben Simmons,PHI,23.0,28.0,29250000.0,Louisiana State University,6.1,Point Guard,230.0,Left
+3818,Anfernee Simons,POR,21.0,329.0,2252040.0,,6.4,Shooting Guard,185.0,Right
+3850,Marcus Smart,BOS,26.0,89.0,13446428.0,Oklahoma State University,6.4,Shooting Guard and Point Guard,220.0,Right
+3866,Dennis Smith Jr.,NYK,22.0,188.0,5686677.0,North Carolina State University,6.3,Point Guard,195.0,Right
+3877,Ish Smith,WAS,31.0,182.0,6146341.0,Wake Forest University,6.0,Point Guard,175.0,Right
+3912,Zhaire Smith,PHI,21.0,270.0,3204600.0,Texas Tech University,6.4,Shooting Guard,199.0,Right
+3916,Tony Snell,DET,28.0,102.0,12178571.0,University of New Mexico,6.7,Shooting Guard and Small Forward,213.0,Right
+3942,Omari Spellman,MIN,22.0,356.0,1988280.0,Villanova University,6.9,Power Forward,245.0,Right
+4026,Edmond Sumner,IND,24.0,337.0,2160000.0,Xavier University,6.6,Point Guard,176.0,Right
+4060,Jayson Tatum,BOS,22.0,123.0,9897120.0,Duke University,6.8,Small Forward,208.0,Right
+4081,Jeff Teague,ATL,32.0,301.0,3372826.0,Wake Forest University,6.2,Point Guard,195.0,Right
+4082,Jeff Teague,ATL,32.0,469.0,3372826.0,Wake Forest University,6.2,Point Guard,195.0,Right
+4087,Garrett Temple,BKN,34.0,216.0,4767000.0,Louisiana State University,6.6,Point Guard and Small Forward and Shooting Guard,195.0,Right
+4099,Daniel Theis,BOS,28.0,209.0,5000000.0,,6.8,Center,243.0,Right
+4119,Khyri Thomas,DET,24.0,475.0,744684.0,Creighton University,6.3,Shooting Guard,210.0,Right
+4147,Tristan Thompson,CLE,29.0,134.0,9258000.0,University of Texas at Austin,6.1,Power Forward and Center,238.0,Left Right
+4154,Sindarius Thornwell,NOP,25.0,474.0,747435.0,University of South Carolina,6.5,Shooting Guard,215.0,Right
+4189,Karl-Anthony Towns,MIN,24.0,26.0,29430000.0,University of Kentucky,7.0,Center,248.0,Right
+4195,Gary Trent Jr.,POR,21.0,392.0,1663861.0,Duke University,6.6,Shooting Guard,205.0,Right
+4211,P.J. Tucker,HOU,35.0,152.0,7969537.0,University of Texas at Austin,6.6,Small Forward and Shooting Guard and Power Forward,245.0,Right
+4227,Myles Turner,IND,24.0,61.0,18000000.0,University of Texas at Austin,6.11,Center,250.0,Right
+4250,Denzel Valentine,CHI,26.0,220.0,4642800.0,Michigan State University,6.6,Shooting Guard,210.0,Right
+4263,Jarred Vanderbilt,MIN,21.0,400.0,1663861.0,University of Kentucky,6.9,Power Forward,214.0,Right
+4268,Fred VanVleet,TOR,26.0,49.0,21250000.0,Wichita State University,6.0,Point Guard,195.0,Right
+4295,Noah Vonleh,DEN,24.0,498.0,263995.0,Indiana University,6.9,Power Forward,250.0,Right
+4311,Moritz Wagner,WAS,23.0,336.0,2161920.0,University of Michigan,6.11,Center,245.0,Right
+4313,Dion Waiters,LAL,28.0,98.0,12650000.0,Syracuse University,6.4,Shooting Guard,215.0,Right
+4326,Kemba Walker,BOS,30.0,12.0,34379100.0,University of Connecticut,6.1,Point Guard,184.0,Right
+4341,Taurean Prince,BKN,26.0,85.0,13942308.0,Baylor University,6.8,Small Forward,220.0,Right
+4351,Brad Wanamaker,BOS,30.0,330.0,2250000.0,University of Pittsburgh,6.4,Point Guard,210.0,Right
+4365,T.J. Warren,IND,26.0,106.0,11750000.0,North Carolina State University,6.8,Small Forward,215.0,Right
+4383,Yuta Watanabe,MEM,25.0,495.0,321893.0,George Washington University,6.9,Small Forward,205.0,Left
+4436,Russell Westbrook,HOU,31.0,2.0,41358814.0,"University of California, Los Angeles",6.3,Point Guard,200.0,Right
+4447,Derrick White,SAS,25.0,260.0,3516284.0,University of Colorado,6.4,Point Guard,190.0,Right
+4465,Hassan Whiteside,POR,31.0,321.0,2320044.0,Marshall University,7.0,Center,265.0,Right
+4475,Andrew Wiggins,GSW,25.0,23.0,29542010.0,University of Kansas,6.8,Small Forward,194.0,Right
+4537,Kenrich Williams,NOP,25.0,354.0,2000000.0,Texas Christian University,6.7,Small Forward,210.0,Right
+4540,Lou Williams,LAC,33.0,151.0,8000000.0,,6.1,Shooting Guard and Point Guard,175.0,Right
+4583,D.J. Wilson,MIL,24.0,222.0,4548280.0,University of Michigan,6.1,Power Forward,231.0,Right
+4605,Justise Winslow,MEM,24.0,95.0,13000000.0,Duke University,6.7,Power Forward and Small Forward,225.0,Left
+4623,Christian Wood,DET,24.0,93.0,13015874.0,"University of Nevada, Las Vegas",6.1,Power Forward,214.0,Right
+4647,Delon Wright,DAL,28.0,138.0,9000000.0,University of Utah,6.5,Point Guard,183.0,Right
+4677,Thaddeus Young,CHI,32.0,87.0,13545000.0,Georgia Institute of Technology,6.8,Power Forward,221.0,Left
+4679,Trae Young,ATL,21.0,174.0,6571800.0,University of Oklahoma,6.2,Point Guard,180.0,Right
+4683,Cody Zeller,CHA,27.0,76.0,15415730.0,Indiana University,7.0,Center,240.0,Right
+4699,Ivica Zubac,LAC,23.0,168.0,7000000.0,,7.1,Center,240.0,Right
